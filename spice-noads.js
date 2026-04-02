@@ -6,8 +6,8 @@
 // @author       Frank-Umbrella
 // @match        https://on.spiceworks.com/*
 // @grant        none
-// @downloadURL https://github.com/frank-umbrella/spicecloud-ads/blob/main/spice-noads
-// @updateURL https://github.com/frank-umbrella/spicecloud-ads/blob/main/spice-noads
+// @downloadURL  https://raw.githubusercontent.com/frank-umbrella/spicecloud-ads/refs/heads/main/spice-noads.js
+// @updateURL    https://raw.githubusercontent.com/frank-umbrella/spicecloud-ads/refs/heads/main/spice-noads.js
 // ==/UserScript==
 
 function addGlobalStyle(css) {
