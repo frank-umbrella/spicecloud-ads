@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Spiceworks Cloud Helpdesk Remove Ads Revision
 // @namespace    https://on.spiceworks.com
-// @version      0.1
+// @version      0.2
 // @description  Remove sidebar and top ad bar
 // @author       Frank-Umbrella
 // @match        https://on.spiceworks.com/*
